@@ -3,6 +3,7 @@ CFLAGS = -O3 -pedantic-errors -Wall -Wextra -Werror -std=c99
 CFLAGS = -Wall -std=c99
 FRONTEND = CLI
 TARGET = ReaktorServer$(FRONTEND)
+INSTALLATIONDIR = /usr/local/bin
 
 OBJS = $(FRONTEND)/program.o \
 		System/Alarm.o System/Control.o System/Printer.o System/Server.o \
@@ -11,6 +12,10 @@ OBJS = $(FRONTEND)/program.o \
 
 .PHONY: all
 all: $(TARGET)
+
+.PHONY: install
+install: $(TARGET)
+	cp $(TARGET) $(INSTALLATIONDIR)
 
 .PHONY: clean
 clean:
