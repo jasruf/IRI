@@ -1,0 +1,908 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"c",
+				"c99"
+			],
+			[
+				"C",
+				"CFLAGS"
+			],
+			[
+				"Tr",
+				"TRACK"
+			],
+			[
+				"Re",
+				"ReleaseType"
+			],
+			[
+				"myU",
+				"myUnicornsLock"
+			],
+			[
+				"T",
+				"Type"
+			],
+			[
+				"Sh",
+				"ShortDateFormat"
+			],
+			[
+				"Da",
+				"DateTime"
+			],
+			[
+				"fo",
+				"format"
+			],
+			[
+				"test",
+				"testid"
+			],
+			[
+				"Mode",
+				"ModelManager"
+			],
+			[
+				"Call",
+				"callback"
+			],
+			[
+				"tes",
+				"testGetters"
+			],
+			[
+				"getFro",
+				"getFromUUID"
+			],
+			[
+				"get",
+				"getFromLocation"
+			],
+			[
+				"pr",
+				"println"
+			],
+			[
+				"getT",
+				"getToUUID"
+			],
+			[
+				"getF",
+				"getFromUUID"
+			],
+			[
+				"Test",
+				"TestCase"
+			],
+			[
+				"n",
+				"null"
+			],
+			[
+				"WO",
+				"WorkingPathDefualt"
+			],
+			[
+				"pu",
+				"public"
+			],
+			[
+				"L",
+				"Location"
+			],
+			[
+				"st",
+				"static"
+			],
+			[
+				"fp",
+				"fpointer"
+			],
+			[
+				"loo",
+				"lookRight"
+			],
+			[
+				"tu",
+				"turnLeft"
+			],
+			[
+				"tur",
+				"turnRight"
+			],
+			[
+				"look",
+				"lookRight"
+			],
+			[
+				"prin",
+				"printbits"
+			],
+			[
+				"Ro",
+				"rotateLeft"
+			],
+			[
+				"ro",
+				"rotateRight"
+			],
+			[
+				"pri",
+				"printbits"
+			],
+			[
+				"inc",
+				"include"
+			],
+			[
+				"in",
+				"int"
+			],
+			[
+				"r",
+				"right"
+			],
+			[
+				"W",
+				"WORLDLIM"
+			],
+			[
+				"Wo",
+				"World"
+			],
+			[
+				"en",
+				"entities"
+			],
+			[
+				"enti",
+				"entities"
+			],
+			[
+				"ent",
+				"entity"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "\n<p>\nIt is a vast desert of desolation and loneliness\n<br/>\nIt is like a&hellip; the face of a clown, beriefed of its hair\n<br/>\nAll the pictures that hung in my bedroom before I\n<br/>\nNow\n<br/>\nI cannot live apart from it\n<br/>\nEven though\n<br/>\nMy heart has been sacrificed\n<br/>\nAnd\n<br/>\nLocked in their temple\n<br/>\nThey aren't necessary to me now\n<br/>\nThe sunlight and the air\n<p>",
+			"settings":
+			{
+				"buffer_size": 387,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Makefile",
+			"settings":
+			{
+				"buffer_size": 465,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/itopia/rail/rail1213_team7/Software/RTOSwaggy/tricktionary.h",
+			"settings":
+			{
+				"buffer_size": 344,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "CLI/program.c",
+			"settings":
+			{
+				"buffer_size": 209,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/User/html.sublime-build",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"ssjava",
+				"Set Syntax: Java"
+			],
+			[
+				"ssxml",
+				"Set Syntax: XML"
+			],
+			[
+				"todo",
+				"Show TODOs: Project and open files"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: NotImplemented"
+			],
+			[
+				"sni",
+				"Snippet: NotImplemented"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/itopia/iri/IRI/System/Server.h",
+		"/home/itopia/iri/IRI/System/Server.c",
+		"/home/itopia/iri/IRI/CLI/program.h",
+		"/home/itopia/iri/IRI/Data/Database.h",
+		"/home/itopia/iri/IRI/System/Printer.c",
+		"/home/itopia/iri/IRI/System/Printer.h",
+		"/home/itopia/iri/IRI/System/Log.h",
+		"/home/itopia/iri/IRI/System/Control.h",
+		"/home/itopia/iri/IRI/System/Alarm.h",
+		"/home/itopia/iri/IRI/Monitor/Network.h",
+		"/home/itopia/iri/IRI/Monitor/Client.h",
+		"/home/itopia/iri/IRI/Monitor/Client.c",
+		"/home/itopia/iri/IRI/Data/ReactorData.h",
+		"/home/itopia/iri/IRI/Data/Database.c",
+		"/home/itopia/iri/IRI/Data/ReactorData.c",
+		"/home/itopia/iri/IRI/System/Log.c",
+		"/home/itopia/iri/IRI/System/Control.c",
+		"/home/itopia/iri/IRI/System/Alarm.c",
+		"/home/itopia/iri/IRI/Monitor/Network.c",
+		"/home/itopia/iri/IRI/System/Makefile",
+		"/home/itopia/proveIT/DJB.fm/20130404Clientmeeting.txt",
+		"/home/itopia/proveIT/context.html",
+		"/home/itopia/Downloads/transl.txt",
+		"/home/itopia/proveIT/DJB.fm/proveit1213_team08/DJ Broadcast/XCode/DJBroadcastFM/DJBroadcastFM/classes/DJBroadcastDB.m",
+		"/home/itopia/proveIT/DJB.fm/proveit1213_team08/DJ Broadcast/XCode/DJBroadcastFM/DJBroadcastFM/JSON/SBJsonParser.h",
+		"/home/itopia/.config/sublime-text-2/Packages/User/html.sublime-build",
+		"/home/itopia/.config/sublime-text-2/Packages/D/D.sublime-build",
+		"/home/itopia/proveITex",
+		"/home/itopia/proveIT/DJB.fm/proveit1213_team08/DJ Broadcast/XCode/DJBroadcastFM/DJBroadcastFM/JSON/SBJSON.h",
+		"/home/itopia/proveIT/DJB.fm/proveit1213_team08/DJ Broadcast/XCode/DJBroadcastFM/DJBroadcastFM/JSON/JSON.h",
+		"/home/itopia/proveIT/DJB.fm/proveit1213_team08/DJ Broadcast/XCode/DJBroadcast/DJBroadcast/main.m",
+		"/home/itopia/proveIT/DJB.fm/proveit1213_team08/DJ Broadcast/XCode/DJBroadcast/DJBroadcast/ViewController.m",
+		"/home/itopia/proveIT/DJB.fm/proveit1213_team08/DJ Broadcast/XCode/DJBroadcast/DJBroadcast/ViewController.h",
+		"/home/itopia/proveIT/DJB.fm/proveit1213_team08/DJ Broadcast/XCode/DJBroadcast/DJBroadcast/Track.m",
+		"/home/itopia/proveIT/DJB.fm/proveit1213_team08/DJ Broadcast/XCode/DJBroadcast/DJBroadcast/Genre.m",
+		"/home/itopia/proveIT/DJB.fm/proveit1213_team08/DJ Broadcast/XCode/DJBroadcast/DJBroadcast/Genre.h",
+		"/home/itopia/proveIT/DJB.fm/proveit1213_team08/DJ Broadcast/XCode/DJBroadcast/DJBroadcast/Single.h",
+		"/home/itopia/proveIT/DJB.fm/proveit1213_team08/DJ Broadcast/XCode/DJBroadcast/DJBroadcast/Playlist.h",
+		"/home/itopia/proveIT/DJB.fm/proveit1213_team08/DJ Broadcast/XCode/DJBroadcast/DJBroadcast/Mix.m",
+		"/home/itopia/proveIT/DJB.fm/proveit1213_team08/DJ Broadcast/XCode/DJBroadcast/DJBroadcast/Mix.h",
+		"/home/itopia/proveIT/DJB.fm/proveit1213_team08/DJ Broadcast/XCode/DJBroadcast/DJBroadcast/AppDelegate.m",
+		"/home/itopia/proveIT/DJB.fm/proveit1213_team08/DJ Broadcast/XCode/DJBroadcast/DJBroadcast/AppDelegate.h",
+		"/home/itopia/proveIT/DJB.fm/proveit1213_team08/DJ Broadcast/XCode/DJBroadcast/DJBroadcast/Album.m",
+		"/home/itopia/proveIT/DJB.fm/proveit1213_team08/DJ Broadcast/XCode/DJBroadcast/DJBroadcast/Album.h",
+		"/home/itopia/proveIT/DJB.fm/proveit1213_team08/DJ Broadcast/XCode/DJBroadcast/DJBroadcast/Playlist.m",
+		"/home/itopia/proveIT/DJB.fm/proveit1213_team08/DJ Broadcast/XCode/DJBroadcast/DJBroadcast/Release.m",
+		"/home/itopia/proveIT/DJB.fm/proveit1213_team08/DJ Broadcast/XCode/DJBroadcast/DJBroadcast/Release.h",
+		"/home/itopia/proveIT/DJB.fm/proveit1213_team08/DJ Broadcast/XCode/DJBroadcast/DJBroadcast/Track.h",
+		"/home/itopia/proveIT/DJB.fm/proveit1213_team08/DJ Broadcast/XCode/DJBroadcast/DJBroadcast/DJBroadcastDB.h",
+		"/home/itopia/proveIT/DJB.fm/proveit1213_team08/DJ Broadcast/XCode/DJBroadcast/DJBroadcast/DJBroadcastDB.m",
+		"/home/itopia/proveIT/DJB.fm/proveit1213_team08/DJ Broadcast/XCode/DJBroadcast/DJBroadcast/Single.m",
+		"/home/itopia/proveIT/DJB.fm/proveit1213_team08/DJ Broadcast/XCode/DJBroadcast/DJBroadcast/Single.h.gch",
+		"/home/itopia/proveIT/DJB.fm/proveit1213_team08/DJ Broadcast/XCode/DJBroadcast/DJBroadcast/Default@2x.png",
+		"/home/itopia/proveIT/DJB.fm/proveit1213_team08/DJ Broadcast/XCode/DJBroadcast/DJBroadcast/Default.png",
+		"/home/itopia/proveIT/DJB.fm/proveit1213_team08/DJ Broadcast/XCode/DJBroadcast/DJBroadcast/Default-568h@2x.png",
+		"/home/itopia/proveIT/DJB.fm/proveit1213_team08/DJ Broadcast/XCode/DJBroadcast/DJBroadcast/DJBroadcast-Prefix.pch",
+		"/home/itopia/proveIT/DJB.fm/proveit1213_team08/DJ Broadcast/XCode/DJBroadcast/DJBroadcast/DJBroadcast-Info.plist",
+		"/home/itopia/proveIT/DJB.fm/20130207Clientmeeting.txt",
+		"/home/itopia/.config/awesome/rc.lua",
+		"/home/itopia/BerendAl.txt",
+		"/home/itopia/Hellenion.java",
+		"/home/solidus/hfcraft/0.637/fCraft/System/Server.cs",
+		"/home/itopia/rail/rail1213_team7/Software/RAILWARE/logs/rail.log",
+		"/home/itopia/rail/rail1213_team7/LESSCHARSET=utf-8",
+		"/home/solidus/hfcraft/0.637/fCraft/Network/Player.Networking.cs",
+		"/home/solidus/hfcraft/0.637/fCraft/System/SchedulerTask.cs",
+		"/home/itopia/Program.cs",
+		"/home/itopia/ads/pr4/postfix.java",
+		"/home/itopia/rail/railmap2.xml",
+		"/home/itopia/rail/rail1213_team7/Software/RAILWARE/rails.xml",
+		"/home/solidus/hfcraft/0.637/fCraft/Network/PacketWriter.cs",
+		"/home/solidus/hfcraft/0.637/fCraft/Network/PacketReader.cs",
+		"/home/solidus/hfcraft/0.637/fCraft/Network/Packet.cs",
+		"/home/solidus/hfcraft/0.637/fCraft/Network/OpCode.cs",
+		"/home/solidus/hfcraft/0.637/fCraft/System/Logger.cs",
+		"/home/solidus/hfcraft/0.637/fCraft/System/Scheduler.cs",
+		"/home/solidus/hfcraft/0.637/fCraft/System/Server.Events.cs",
+		"/home/itopia/rail/rail1213_team7/RAILWARE/RAILWARE/test/Utils/TestPaths.java",
+		"/home/itopia/rail/rail1213_team7/RAILWARE/RAILWARE/src/Command/Utils/Paths.java",
+		"/home/itopia/rail/rail1213_team7/RAILWARE/RAILWARE/src/Command/System/Server.java",
+		"/home/itopia/Logger.cs",
+		"/home/itopia/rail/rail1213_team7/RAILWARE/RAILWARE/build/RAILCONFIG.XML",
+		"/home/itopia/rail/rail1213_team7/RAILWARE/RAILWARE/src/Command/System/Log.java",
+		"/home/itopia/rail/rail1213_team7/RAILWARE/RAILWARE/src/Command/Model/Map.java",
+		"/home/itopia/rail/rail1213_team7/oldmap.java",
+		"/home/itopia/oldmap",
+		"/home/itopia/rail/rail1213_team7/RAILWARE/RAILWARE/src/Command/Router/Route.java",
+		"/home/itopia/rail/rail1213_team7/RAILWARE/RAILWARE/src/Command/Waggys/WaggyManager.java",
+		"/home/itopia/rail/rail1213_team7/RAILWARE/RAILWARE/src/Command/Network/Network.java",
+		"/home/itopia/rail/rail1213_team7/RAILWARE/RAILWARE/test/Model/Tracks/TDirection.java",
+		"/home/itopia/rail/rail1213_team7/RAILWARE/RAILWARE/src/Command/Waggys/Waggy.java",
+		"/home/itopia/rail/rail1213_team7/RAILWARE/RAILWARE/src/Command/Router/RouteManager.java",
+		"/home/itopia/rail/rail1213_team7/RAILWARE/RAILWARE/src/Command/Router/RouteInfo.java",
+		"/home/itopia/rail/rail1213_team7/RAILWARE/RAILWARE/src/Command/Router/Pathfinder.java",
+		"/home/itopia/rail/rail1213_team7/RAILWARE/RAILWARE/src/Command/Model/Track.java",
+		"/home/itopia/rail/rail1213_team7/RAILWARE/RAILWARE/src/Command/System/Logger.java",
+		"/home/itopia/rail/rail1213_team7/RAILWARE/RAILWARE/src/Command/Model/Tracks/TrackManager.java",
+		"/home/itopia/rail/rail1213_team7/RAILWARE/RAILWARE/src/Command/Model/ModelManager.java",
+		"/home/itopia/rail/rail1213_team7/RAILWARE/RAILWARE/src/Command/Model/Tracks/Track.java",
+		"/home/itopia/rail/rail1213_team7/RAILWARE/RAILWARE/src/Command/Model/Tracks/Direction.java",
+		"/home/itopia/rail/rail1213_team7/RAILWARE/RAILWARE/src/Command/Util/Callback.java",
+		"/home/itopia/.config/sublime-text-2/Packages/User/NotImplemented.sublime-snippet",
+		"/home/itopia/rail/rail1213_team7/RAILWARE/RAILWARE/src/Command/Model/Tracks/Location.java",
+		"/home/itopia/rail/rail1213_team7/RAILWARE/RAILWARE/src/Command/Model/Tracks/Station.java",
+		"/home/itopia/rail/rail1213_team7/RAILWARE/RAILWARE/src/Command/CLI/Main.java",
+		"/home/itopia/rail/rail1213_team7/RAILWARE/RAILWARE/src/Command/Util/Paths.java",
+		"/home/itopia/rail/rail1213_team7/RAILWARE/RAILWARE/test/testin/Direction.java",
+		"/home/itopia/rail/rail1213_team7/RAILWARE/RAILWARE/test/testin/Main.java",
+		"/home/itopia/rail/rail1213_team7/RAILWARE/RAILWARE/src/commandandcontrol/junction.java",
+		"/home/itopia/rail/rail1213_team7/RAILWARE/RAILWARE/src/Command/Model/Tracks/Junction.java",
+		"/home/itopia/.config/sublime-text-2/Packages/User/Java.sublime-settings",
+		"/home/itopia/rail/rail1213_team7/RAILWARE/RAILWARE/RAILWARE.sublime-project",
+		"/home/itopia/embedded/arm/test/src/main.c",
+		"/home/itopia/rail/example.xml",
+		"/home/itopia/embedded/arm/test/src/startup_stm32l1xx_md.s",
+		"/home/itopia/embedded/arm/test/Libraries/CMSIS/Device/ST/STM32L1xx/Include/stm32l1xx.h",
+		"/home/itopia/embedded/arm/test/Libraries/CMSIS/Include/core_cm0.h",
+		"/home/itopia/embedded/arm/test/Libraries/CMSIS/Include/core_cm3.h",
+		"/home/itopia/embedded/arm/test/Libraries/CMSIS/Include/core_cm4.h",
+		"/home/itopia/embedded/arm/test/src/core_cm0.h",
+		"/home/itopia/embedded/arm/test/src/core_cm4.h",
+		"/home/itopia/embedded/arm/test/src/stm32l1xx.h",
+		"/home/itopia/embedded/file.c",
+		"/home/itopia/embedded/bitrotate.c",
+		"/home/itopia/embedded/tester.c",
+		"/home/itopia/rail/notes/clientBriefing.txt",
+		"/home/itopia/rail/notes/Sep20Fri.txt",
+		"/home/itopia/embedded/TEST.TXT"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 102.0,
+		"where_history":
+		[
+			"<open folders>",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"apiURL",
+			"];\n",
+			"SHutdownParams",
+			"SHutdown",
+			"KickNow",
+			"CloseNow",
+			"AdjustForExecutionTime",
+			"void SendN",
+			"Pending",
+			"void CloseNow",
+			"SendNow",
+			"ping",
+			"Disconn",
+			"Kick",
+			"Close",
+			"Kick",
+			"TCP",
+			"Connecting",
+			"Session",
+			"Event",
+			"EventH",
+			"Disconn",
+			"priorityOutputQueue",
+			"SleepDelay",
+			"taskCache",
+			"Raise",
+			"BytesSent",
+			"outPacketNumber",
+			"PingInterval",
+			"Disconnect(",
+			"Disconnect",
+			"Disc",
+			"canSend",
+			"cansend",
+			"canSend",
+			"Player",
+			"#IF",
+			"CheckConnections",
+			"ConnectionsInterval",
+			"Interval",
+			"\nInterval",
+			"checkConnectionsTask",
+			"Stop",
+			"Run",
+			"Callback",
+			" Tasks",
+			"Tasks",
+			"taskCache",
+			"UpdateC",
+			"mainloop",
+			"updat",
+			"Tasks",
+			"cache",
+			"TaskExecuting",
+			"Settings",
+			"Console",
+			"ConsoleOp",
+			"Port",
+			"IP",
+			"Port",
+			"listener",
+			"Server",
+			"OpCodes",
+			"min",
+			"EventTraceNotifier",
+			"EventsMap",
+			"eventsMap",
+			"Prepare",
+			"Prep",
+			"Initializing",
+			"RaiseEvent",
+			"Raise",
+			"RaiseE",
+			"Initializing",
+			"RaiseEvent(",
+			"Raise",
+			"IsC",
+			"Log(",
+			"Log",
+			"trace",
+			"Stack",
+			"public",
+			"DEBUG",
+			"null",
+			"UpdateMap",
+			"\n",
+			"Direction",
+			"catch",
+			"UnsupportedOperationException",
+			" \n",
+			"*/\n",
+			"static",
+			"throw",
+			"pickup",
+			"Pickup",
+			"\n    ",
+			"invalid",
+			"getUUID",
+			"get",
+			"None",
+			"Dummy",
+			"Track",
+			").",
+			"Direction",
+			"null",
+			"TDirection",
+			"return",
+			"null",
+			"assert",
+			"get",
+			"return",
+			"ret",
+			"static",
+			"Methods",
+			"meth",
+			"getID",
+			"from",
+			"From",
+			"from",
+			"From",
+			"editor",
+			"TrackID",
+			"public",
+			"#include <stdint.h>",
+			"#include <",
+			"char",
+			"scanf(\"%s",
+			"gemiddelde"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			";\n",
+			"#include \"stdint.h\""
+		],
+		"reverse": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"settings":
+					{
+						"buffer_size": 387,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								184,
+								184
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "Makefile",
+					"settings":
+					{
+						"buffer_size": 465,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								408,
+								408
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Makefile/Makefile.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/home/itopia/rail/rail1213_team7/Software/RTOSwaggy/tricktionary.h",
+					"settings":
+					{
+						"buffer_size": 344,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								141,
+								141
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Objective-C/Objective-C.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "CLI/program.c",
+					"settings":
+					{
+						"buffer_size": 209,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								180,
+								180
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 29.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 240.0
+	},
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"serv",
+				"src/Command/System/Server.java"
+			],
+			[
+				"testp",
+				"test/Utils/TestPaths.java"
+			],
+			[
+				"path",
+				"src/Command/Utils/Paths.java"
+			],
+			[
+				"railc",
+				"build/RAILCONFIG.XML"
+			],
+			[
+				"l",
+				"src/Command/System/Log.java"
+			],
+			[
+				"map",
+				"src/Command/Model/Map.java"
+			],
+			[
+				"log",
+				"src/Command/System/Log.java"
+			],
+			[
+				"lo",
+				"src/Command/System/Log.java"
+			],
+			[
+				"wm",
+				"src/Command/Waggys/WaggyManager.java"
+			],
+			[
+				"routem",
+				"src/Command/Router/RouteManager.java"
+			],
+			[
+				"rin",
+				"src/Command/Router/RouteInfo.java"
+			],
+			[
+				"route",
+				"src/Command/Router/Route.java"
+			],
+			[
+				"serve",
+				"src/Command/System/Server.java"
+			],
+			[
+				"netw",
+				"src/Command/Network/Network.java"
+			],
+			[
+				"td",
+				"test/Model/Tracks/TDirection.java"
+			],
+			[
+				"dire",
+				"src/Command/Model/Tracks/Direction.java"
+			],
+			[
+				"tra",
+				"src/Command/Model/Tracks/Track.java"
+			],
+			[
+				"manager",
+				"src/Command/Model/ModelManager.java"
+			],
+			[
+				"trackm",
+				"src/Command/Model/Tracks/TrackManager.java"
+			],
+			[
+				"wa",
+				"src/Command/Waggys/Waggy.java"
+			],
+			[
+				"wagg",
+				"src/Command/Waggys/WaggyManager.java"
+			],
+			[
+				"",
+				"src/Command/Router/RouteManager.java"
+			],
+			[
+				"call",
+				"src/Command/Util/Callback.java"
+			],
+			[
+				"locat",
+				"src/Command/Model/Tracks/Location.java"
+			],
+			[
+				"routema",
+				"src/Command/Router/RouteManager.java"
+			],
+			[
+				"track",
+				"src/Command/Model/Tracks/Track.java"
+			],
+			[
+				"stat",
+				"src/Command/Model/Tracks/Station.java"
+			],
+			[
+				"loc",
+				"src/Command/Model/Tracks/Location.java"
+			],
+			[
+				"tr",
+				"src/Command/Model/Tracks/Track.java"
+			],
+			[
+				"logg",
+				"src/Command/System/Logger.java"
+			],
+			[
+				"lca",
+				"src/Command/Model/Tracks/Location.java"
+			],
+			[
+				"diret",
+				"test/testin/Direction.java"
+			],
+			[
+				"dir",
+				"src/Command/Model/Tracks/Direction.java"
+			],
+			[
+				"tracm",
+				"src/Command/Model/Tracks/TrackManager.java"
+			],
+			[
+				"ser",
+				"src/Command/System/Server.java"
+			],
+			[
+				"main",
+				"src/Command/CLI/Main.java"
+			],
+			[
+				"mai",
+				"test/testin/Main.java"
+			],
+			[
+				"jun",
+				"src/Command/Model/Tracks/Junction.java"
+			],
+			[
+				"junc",
+				"src/commandandcontrol/junction.java"
+			],
+			[
+				"mod",
+				"src/Command/Model/ModelManager.java"
+			],
+			[
+				"d",
+				"src/Command/Model/Tracks/Direction.java"
+			],
+			[
+				"projec",
+				"RAILWARE.sublime-project"
+			],
+			[
+				"loca",
+				"src/Command/Model/Tracks/Location.java"
+			],
+			[
+				"dirct",
+				"src/Command/Model/Tracks/Direction.java"
+			],
+			[
+				"mana",
+				"src/Command/Model/ModelManager.java"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
