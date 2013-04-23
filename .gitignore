@@ -4,3 +4,7 @@
 *.jar
 *.war
 *.ear
+
+*.o
+ReaktorServerCLI
+IRI.sublime-workspace
